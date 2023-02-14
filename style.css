@@ -9,7 +9,7 @@
     margin: 0;
     padding: 5px 10px;
 }
-.list-group li.active {
+.list-group li.active { 
     color: #008;
     background: #cef;
     border: 1px #008, solid;
